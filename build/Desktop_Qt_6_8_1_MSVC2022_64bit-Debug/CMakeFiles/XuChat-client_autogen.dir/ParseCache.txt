@@ -153,5 +153,16 @@ D:/QtPro/XuChat-client/mainwidget.h
  mdp:D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qwidget.h
  mdp:D:/QtPro/XuChat-client/mainwidget.h
+D:/QtPro/XuChat-client/third/Xulog/logs/Xulog.h
 D:/QtPro/XuChat-client/main.cpp
 D:/QtPro/XuChat-client/mainwidget.cpp
+D:/QtPro/XuChat-client/model/data.h
+D:/QtPro/XuChat-client/model/logger.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/buffer.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/format.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/level.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/logger.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/looper.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/message.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/sink.hpp
+D:/QtPro/XuChat-client/third/Xulog/logs/util.hpp

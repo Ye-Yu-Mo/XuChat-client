@@ -1,6 +1,7 @@
 #include "mainwidget.h"
 
 #include <QApplication>
+#include "model/logger.hpp"
 
 int main(int argc, char *argv[])
 {
