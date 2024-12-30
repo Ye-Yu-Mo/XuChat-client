@@ -5,10 +5,17 @@
 #include <QDateTime>
 #include <QFile>
 #include <QDebug>
+#include <QFileInfo>
 namespace Model{
 
-/// @brief 打印日志
+static inline QString getFileName(const QString &path){
+    QFileInfo fileInfo(path);
+    return fileInfo.fileName();
+}
 
+/// @brief 打印日志
+#define TAG QString("[%1:%2]").arg(Model::getFileName(__FILE__), QString::number(__LINE__))
+#define LOG() qDebug().noquote() << TAG
 
 /// @brief 获取格式化时间字符串
 static inline QString getFormatTime(int64_t timestamp){
@@ -34,7 +41,7 @@ static inline QByteArray loadFileToByteArray(const QString& path){
     QFile file(path);
     if (!file.open(QFile::ReadOnly))
     {
-        qDebug() << "文件打开失败！";
+        LOG() << "文件打开失败！";
         return QByteArray();
     }
     return file.readAll();
@@ -45,7 +52,7 @@ static inline void writeByteArrayToFile(const QString& path, const QByteArray& c
     QFile file(path);
     if (!file.open(QFile::WriteOnly))
     {
-        qDebug() << "文件打开失败！";
+        LOG() << "文件打开失败！";
         return;
     }
     file.write(content);

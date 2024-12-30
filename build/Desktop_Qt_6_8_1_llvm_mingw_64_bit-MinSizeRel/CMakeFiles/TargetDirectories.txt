@@ -1,0 +1,9 @@
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/XuChat-client.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/install.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/install/local.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/XuChat-client_autogen_timestamp_deps.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-MinSizeRel/CMakeFiles/XuChat-client_autogen.dir

@@ -1,9 +1,20 @@
 # ninja log v6
 6	1555	7568342698273517	XuChat-client_autogen/timestamp	641fb4217137e202
+1579	4384	7568342702099191	CMakeFiles/XuChat-client.dir/main.cpp.obj	62ea13e7b4f60664
 6	1555	7568342698273517	XuChat-client_autogen/mocs_compilation.cpp	641fb4217137e202
 6	1555	7568342698273517	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-client_autogen/timestamp	641fb4217137e202
 6	1555	7568342698273517	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-client_autogen/mocs_compilation.cpp	641fb4217137e202
 1584	4350	7568342702149239	CMakeFiles/XuChat-client.dir/mainwidget.cpp.obj	2f279815c9a8f56
 1573	4361	7568342702039206	CMakeFiles/XuChat-client.dir/XuChat-client_autogen/mocs_compilation.cpp.obj	ab8098081891709d
-1579	4384	7568342702099191	CMakeFiles/XuChat-client.dir/main.cpp.obj	62ea13e7b4f60664
 4384	4593	7568342730151571	XuChat-client.exe	16481c5b506f965
+44	1483	7572592867847596	XuChat-client_autogen/timestamp	641fb4217137e202
+44	1483	7572592867847596	XuChat-client_autogen/mocs_compilation.cpp	641fb4217137e202
+44	1483	7572592867847596	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-client_autogen/timestamp	641fb4217137e202
+44	1483	7572592867847596	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-client_autogen/mocs_compilation.cpp	641fb4217137e202
+1485	1620	7572592872508527	XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp	901811ff6826f7e8
+1485	1620	7572592872508527	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp	901811ff6826f7e8
+1636	1742	7572592872773751	CMakeFiles/XuChat-client.dir/XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp.obj	9aaed4f92804d4
+1620	3975	7572592872608605	CMakeFiles/XuChat-client.dir/XuChat-client_autogen/mocs_compilation.cpp.obj	ab8098081891709d
+1630	3996	7572592872718639	CMakeFiles/XuChat-client.dir/mainwidget.cpp.obj	2f279815c9a8f56
+1626	4266	7572592872668614	CMakeFiles/XuChat-client.dir/main.cpp.obj	62ea13e7b4f60664
+4267	4728	7572592899080400	XuChat-client.exe	f4d217611637537b

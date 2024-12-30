@@ -1,0 +1,12 @@
+# ninja log v6
+8	1467	7572595151294768	XuChat-client_autogen/timestamp	5e53eb4485275629
+8	1467	7572595151294768	XuChat-client_autogen/mocs_compilation.cpp	5e53eb4485275629
+8	1467	7572595151294768	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-RelWithDebInfo/XuChat-client_autogen/timestamp	5e53eb4485275629
+8	1467	7572595151294768	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-RelWithDebInfo/XuChat-client_autogen/mocs_compilation.cpp	5e53eb4485275629
+1486	1616	7572595156116577	XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp	ddbcf2ec035ebf0f
+1486	1616	7572595156116577	D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-RelWithDebInfo/XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp	ddbcf2ec035ebf0f
+1632	1729	7572595156376588	CMakeFiles/XuChat-client.dir/XuChat-client_autogen/EWIEGA46WW/qrc_resource.cpp.obj	58dcd43d8a3676d3
+1616	3851	7572595156226597	CMakeFiles/XuChat-client.dir/XuChat-client_autogen/mocs_compilation.cpp.obj	40fda79367a886aa
+1627	3882	7572595156326604	CMakeFiles/XuChat-client.dir/mainwidget.cpp.obj	827868be53a4aa3f
+1622	4112	7572595156276595	CMakeFiles/XuChat-client.dir/main.cpp.obj	7c1eac8aa2e77dff
+4112	4305	7572595181189015	XuChat-client.exe	c7be9f60b80b445c

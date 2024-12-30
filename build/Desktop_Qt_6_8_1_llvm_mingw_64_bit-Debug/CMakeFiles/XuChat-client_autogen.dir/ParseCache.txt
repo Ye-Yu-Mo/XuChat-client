@@ -146,7 +146,10 @@ D:/QtPro/XuChat-client/mainwidget.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qtransform.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qwindowdefs.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qwindowdefs_win.h
+ mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/QPushButton
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/QWidget
+ mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qabstractbutton.h
+ mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qpushbutton.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qsizepolicy.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qtwidgets-config.h
  mdp:D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qtwidgetsexports.h
@@ -910,3 +913,4 @@ D:/QtPro/XuChat-client/mainwidget.h
  mdp:D:/QtPro/XuChat-client/mainwidget.h
 D:/QtPro/XuChat-client/main.cpp
 D:/QtPro/XuChat-client/mainwidget.cpp
+D:/QtPro/XuChat-client/model/data.h

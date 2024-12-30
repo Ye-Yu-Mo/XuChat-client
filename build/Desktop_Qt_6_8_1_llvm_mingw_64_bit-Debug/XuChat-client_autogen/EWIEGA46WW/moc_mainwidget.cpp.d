@@ -145,7 +145,10 @@ D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/XuChat-cli
   D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qtransform.h \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qwindowdefs.h \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtGui/qwindowdefs_win.h \
+  D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/QPushButton \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/QWidget \
+  D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qabstractbutton.h \
+  D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qpushbutton.h \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qsizepolicy.h \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qtwidgets-config.h \
   D:/Qt/6.8.1/llvm-mingw_64/include/QtWidgets/qtwidgetsexports.h \

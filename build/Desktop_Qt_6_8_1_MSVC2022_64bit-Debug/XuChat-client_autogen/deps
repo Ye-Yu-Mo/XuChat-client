@@ -144,7 +144,10 @@ XuChat-client_autogen/timestamp: \
 	D:/Qt/6.8.1/msvc2022_64/include/QtGui/qtransform.h \
 	D:/Qt/6.8.1/msvc2022_64/include/QtGui/qwindowdefs.h \
 	D:/Qt/6.8.1/msvc2022_64/include/QtGui/qwindowdefs_win.h \
+	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/QPushButton \
 	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/QWidget \
+	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qabstractbutton.h \
+	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qpushbutton.h \
 	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qsizepolicy.h \
 	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qtwidgets-config.h \
 	D:/Qt/6.8.1/msvc2022_64/include/QtWidgets/qtwidgetsexports.h \
@@ -374,14 +377,5 @@ XuChat-client_autogen/timestamp: \
 	D:/QtPro/XuChat-client/mainwidget.cpp \
 	D:/QtPro/XuChat-client/mainwidget.h \
 	D:/QtPro/XuChat-client/model/data.h \
-	D:/QtPro/XuChat-client/model/logger.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/Xulog.h \
-	D:/QtPro/XuChat-client/third/Xulog/logs/buffer.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/format.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/level.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/logger.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/looper.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/message.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/sink.hpp \
-	D:/QtPro/XuChat-client/third/Xulog/logs/util.hpp \
+	D:/QtPro/XuChat-client/resource.qrc \
 	D:/Qt/Tools/CMake_64/bin/cmake.exe

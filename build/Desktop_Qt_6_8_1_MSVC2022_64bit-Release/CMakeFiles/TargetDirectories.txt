@@ -1,0 +1,8 @@
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/XuChat-client.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/edit_cache.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/rebuild_cache.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/list_install_components.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/install.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/install/local.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/XuChat-client_autogen_timestamp_deps.dir
+D:/QtPro/XuChat-client/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release/CMakeFiles/XuChat-client_autogen.dir

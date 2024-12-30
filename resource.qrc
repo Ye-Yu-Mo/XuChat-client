@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/logo_w.png</file>
+        <file>resource/image/logo_b.png</file>
+        <file>resource/image/session_active.png</file>
+        <file>resource/image/session_inactive_b.png</file>
+        <file>resource/image/session_inactive_w.png</file>
+        <file>resource/image/friend_active.png</file>
+        <file>resource/image/friend_inactive_b.png</file>
+        <file>resource/image/friend_inactive_w.png</file>
+        <file>resource/image/apply_active.png</file>
+        <file>resource/image/apply_inactive_b.png</file>
+        <file>resource/image/apply_inactive_w.png</file>
+        <file>resource/image/defaultAvatar.jpg</file>
+    </qresource>
+</RCC>
