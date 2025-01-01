@@ -1,4 +1,5 @@
 #include "mainwidget.h"
+#include "sessionfriendarea.h"
 #include <QHBoxLayout>
 #include <QPainter>
 #include <QPainterPath>
@@ -126,10 +127,45 @@ void MainWidget::initLeftWindow(){
     layout->addStretch(20);
 }
 void MainWidget::initRrightWindow(){
-
 }
 void MainWidget::initMidWindow(){
+    QGridLayout* layout = new QGridLayout();
+    layout->setContentsMargins(0,20,0,0);
+    layout->setSpacing(0);
+    windowMid->setLayout(layout);
 
+    searchEdit = new QLineEdit();
+    searchEdit->setFixedHeight(30);
+    searchEdit->setPlaceholderText("搜索");
+    searchEdit->setStyleSheet("QLineEdit { border-radius: 5px;"
+                            "background-color: rgb(37, 37, 37);"
+                            "padding-left: 5px;"
+                            "}");
+
+    addFriendBtn = new QPushButton();
+    addFriendBtn->setFixedSize(30, 30);
+    addFriendBtn->setIcon(QIcon("://resource/image/cross.png"));
+    QString style = "QPushButton {"
+                    "border-radius: 5px;"
+                    "background-color: rgb(37, 37, 37);"
+                    "}";
+    style += "QPushButton::pressed {background-color: rgb(64, 66, 68);}";
+    addFriendBtn->setStyleSheet(style);
+
+    SessionFriendArea* sessionFriednArea = new SessionFriendArea();
+    QWidget* space1 = new QWidget();
+    space1->setFixedWidth(10);
+    QWidget* space2 = new QWidget();
+    space2->setFixedWidth(10);
+    QWidget* space3 = new QWidget();
+    space3->setFixedWidth(10);
+
+    layout->addWidget(space1, 0, 0);
+    layout->addWidget(searchEdit,0, 1);
+    layout->addWidget(space2, 0, 2);
+    layout->addWidget(addFriendBtn, 0, 3);
+    layout->addWidget(space3, 0, 4);
+    layout->addWidget(sessionFriednArea, 1, 0, 1, 5);
 }
 
 void MainWidget::switchTabToSession(){

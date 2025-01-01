@@ -12,5 +12,6 @@
         <file>resource/image/apply_inactive_b.png</file>
         <file>resource/image/apply_inactive_w.png</file>
         <file>resource/image/defaultAvatar.jpg</file>
+        <file>resource/image/cross.png</file>
     </qresource>
 </RCC>

@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QPushButton>
+#include <QLineEdit>
 class MainWidget : public QWidget
 {
     Q_OBJECT
@@ -24,6 +25,10 @@ private:
     QPushButton* sessionTabBtn;
     QPushButton* friendTabBtn;
     QPushButton* applyTabBtn;
+
+    // 搜索框
+    QLineEdit* searchEdit;
+    QPushButton* addFriendBtn;
 
     enum ActiveTab {
         SESSION_LIST,
